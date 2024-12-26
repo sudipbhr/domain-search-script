@@ -8,13 +8,9 @@ This Python script uses Selenium to automate the process of searching for availa
 - Stops further searches once an available domain is found for each query.
 - Uses Selenium WebDriver for interaction with the Namecheap website.
 
-## Requirements
-- Python 3.x
-- Selenium WebDriver
-- Chrome WebDriver (for Chrome browser)
-  
-### Install Required Packages
-To install the necessary Python packages, use the following command:
-
+## Execution
 ```bash
+git clone https://github.com/sudipbhr/domain-search-script.git
+cd domain-search-script
 pip install selenium
+python scripts.py
