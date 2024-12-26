@@ -1,5 +1,10 @@
 # Domain Search Automation Script
 
+## The ultimate goal of this repo is to accept a prompt(set of keywords) from the user generate a possible domain names and search through multiple domain provider and give the result to the user
+
+## ❤️ Open for collaboration ❤️ ##
+
+
 This Python script uses Selenium to automate the process of searching for available domain names on Namecheap. It checks a list of domain names, searches for them on Namecheap, and retrieves information about whether the domain is available, along with its price.
 
 ## Features
